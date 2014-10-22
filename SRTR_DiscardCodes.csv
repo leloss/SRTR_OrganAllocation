@@ -1,0 +1,21 @@
+DSCRDCD,601,601: Too old on pump
+DSCRDCD,602,602: Too old on ice
+DSCRDCD,603,603: Vascular damage
+DSCRDCD,604,604: Ureteral damage
+DSCRDCD,605,605: Inadequate urine output
+DSCRDCD,606,606: Donor Medical history
+DSCRDCD,607,607: Donor social history
+DSCRDCD,608,608: Positive CMV
+DSCRDCD,609,609: Positive HIV
+DSCRDCD,610,610: Positive Hepatitis
+DSCRDCD,611,611: Warm ischemic time too long
+DSCRDCD,612,612: Organ trauma
+DSCRDCD,613,613: Organ not as described
+DSCRDCD,614,614: Biopsy findings
+DSCRDCD,615,615: Recipient determined to be unsuitable for TX in OR
+DSCRDCD,616,616: Poor organ function
+DSCRDCD,617,617: Infection
+DSCRDCD,618,618: Diseased organ
+DSCRDCD,619,619: Anatomical abnormalities
+DSCRDCD,620,620: No recipient located - list exhausted
+DSCRDCD,699,"699: Other, specify"
