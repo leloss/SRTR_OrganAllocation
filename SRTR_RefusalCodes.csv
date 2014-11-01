@@ -1,0 +1,88 @@
+800,800 Potential recipient?s condition has improved and transplant is currently unnecessary
+801,"801 Potential recipient too sick to attempt transplant at the time of offer, cannot be located, refused transplant, or is temporarily unsuitable for transplant"
+802,"802 Either the potential recipient requires a multiple organ transplant or an organ of a different laterality is required (i.e., right lung is specified)"
+803,"803 Patient transplanted, transplant in progress, or other offer being considered"
+810,810 Crossmatch results between donor and potential recipient positive
+811,811 Number of HLA mismatches between donor and potential recipient unacceptable
+812,812 No serum for crossmatching
+813,813 Donor has HLA antigens that are unacceptable to the potential recipient
+814,814 Potential recipient has high PRA and most likely would have a positive crossmatch
+815,815 Potential recipient is highly sensitized and most likely would have positive crossmatch
+820,820 Program unable to accept an organ at this time due to heavy workload
+821,"821 Transplant center refused due to transportation, logistics, distance, inclement weather issues, or unable to travel for procurement"
+822,822 Response was not received from center within the one-hour time period specified in policy
+823,823 Surgeon unavailable to perform transplant procedure
+824,824 Too far for the organ recovery team to travel or too far to ship
+825,"825 Transplant center refused due to transportation, logistics, inclement weather issues, or unable to travel for procurement"
+830,"830 Donor age, hypertension, prolonged hypotension, high vasopressor/ medication dosage, cardiac arrest, evidence of infection/positive cultures, non-heart beating, etiology of death, donor unstable, donor diabetes, other medical history"
+831,"831 Donor too large or small, weight incompatible with potential recipient"
+832,832 Donor ABO group incompatible / unacceptable [Only available for LIVER offers; will not display for other organ types]
+833,833 CDC high risk donor or other reasons related to social history
+834,"834 CMV, HBV, HCV, HIV, HTLV, VDRL, etc. donor testing is positive"
+835,"835 Method/quality of preservation, length of cold ischemic time, length of warm ischemic time"
+836,"836 Surgical damage, non-surgical trauma, diseased organ, organ vasculature, enbloc kidney''s or any other anatomical reason"
+837,"837 Testing unavailable, not done or unacceptable, abnormal biopsy, or other organ-specific reason"
+850,850 Potential recipient was bypassed for priority multi-organ transplant
+851,851 Potential recipient was bypassed because the donation was directed to a specific recipient.
+852,852 Potential recipient was bypassed because the organ was from a military donor and was directed to a military recipient.
+853,"853 Potential recipient was bypassed due to the OPO''s OPTN-approved alternative local unit, sharing agreement, or variance"
+860,860 Center bypassed potential recipient due to the urgent medical needs of another potential recipient. (Requires written verification by the transplant program to UNOS Policy Compliance Department.) (Also requires written verification by OPO to UNOS Policy Compliance Department; this bypass and narrative justification will be shared with bypassed centers.)
+861,"861 OPO bypassed potential recipient due to transportation logistics, including distance in relation to ischemic time or weather conditions. (Requires written verification by OPO to UNOS Policy Compliance Department; this bypass and narrative justification will be shared with bypassed centers.)"
+862,862 Potential recipient was bypassed due to urgent donor organ placement. (Requires written verification by OPO to UNOS Policy Compliance Department; this bypass and narrative justification will be shared with bypassed centers.)
+863,"863 Potential recipient bypassed as a result of offer(s) made during an expedited placement attempt. This includes offers of expanded donor organs, OR time constraints or family time constraints. (Requires written verification by OPO to UNOS Policy Compliance Department; this bypass and narrative justification will be shared with bypassed centers.)"
+880,880 Potential recipient was bypassed in order to place the kidney with the extra-renal organ recipient from the same donor.
+881,881 Potential recipient was bypassed and not offered zero mismatch organs because the policy requirement was satisfied prior to this sequence number.
+882,882 Organ Center uses this code for non-facilitated pancreas center refusals when a facilitated pancreas is offered. [OC use only ? does not appear on user list]
+883,883 Organ Center uses this code for centers that were not offered an organ because their minimum acceptance criteria excluded their potential recipients. [OC use only ? does not appear on user list]
+898,"898 Use only if the refusal reason does not fit the above categories. Be sure to write in the other reason, UNOS staff will review the OTHER reason and may recode if necessary."
+901,901 Recipient Ill
+902,902 Recipient Unavailable
+903,903 Recipient Refused
+904,904 Multiple Organ Transplant Required
+905,905 Recipient Transplanted/Inactive
+906,906 Positive Crossmatch
+907,907 HLA mismatch unacceptable
+908,908 Recipient testing results unavailable
+909,"909 Patient condition improved, transplant not needed"
+910,910 Recipient Medical Urgency - recipient bypassed due to medical urgency of another recipient
+911,911 Heavy workload - program unable to accept an organ at this time due to heavy workload
+912,"912 Operational - transportation, logistics, distance, exceeded one hour response time or placement time constrains related to organ ischemic time"
+913,913 Surgeon Unavailable - surgeon currently performing
+921,921 Donor Quality
+922,922 Donor Age
+923,923 Donor Size/Weight
+924,924 Donor ABO
+925,925 Donor Social History
+926,926 Positive Serological Tests
+927,927 Organ Preservation
+928,928 Organ Anatomical Damage or Defect
+930,"930 Kidney: Renal function test results unavailable, not done or unacceptable"
+931,931 Kidney: Elevated Creatinine
+932,932 Kidney: Abnormal Urinalysis
+933,933 Kidney: Abnormal Biopsy
+934,934 Kidney: Decreased Urine Output
+940,"940 Liver: Liver function test results unavailable, not done or unacceptable"
+941,941 Liver: Rising Serum Transaminase
+942,942 Liver: Abnormal Biopsy
+950,"950 Heart: Cardiac function test results unavailable, not done or unacceptable"
+951,951 Heart: Abnormal Echocardiogram
+952,952 Heart: Abnormal Coronary Angiography
+953,953 Heart: Abnormal EKG results
+954,954 Heart: Abnormal Hemodynamics
+960,"960 Pulmonary: Pulmonary function test results unavailable, not done or unacceptable"
+961,961 Pulmonary: Abnormal Blood Gases
+962,962 Pulmonary: Abnormal Chest X-Ray
+963,963 Pulmonary: Abnormal Brochoscopy Results
+970,970 Region 1 Special
+988,988 Not offered - Time limit for offers exceeded - OC use only
+989,989 Not offered - Non facilitated pancreas center - OC use only
+991,991 Donor Medical Urgency
+992,992 Other: Multi-organ Transplant
+993,993 Other: Directed Donation
+994,994 Other: Military Donor
+995,"995 Other: ALU, Sharing Agreement, Variance"
+996,996 Other: Extra-renal placed with Kidney
+997,997 Not offered - Min acceptance criteria not met - OC use only
+998,998 Other: Other Specify
+2000,2000 Misc. Bypass
+2001,2001 Cold Ischemic Time
